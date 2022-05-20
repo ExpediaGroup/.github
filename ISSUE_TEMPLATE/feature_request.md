@@ -9,7 +9,7 @@ labels: enhancement
 
 If your feature request is related to a problem please describe this. Also provide a clear and concise description of what you want to happen.
 
-**Rational**
+**Rationale**
 
 Why this feature should exist.
 
