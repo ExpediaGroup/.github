@@ -15,4 +15,4 @@ Why this feature should exist.
 
 **Example Scenario**
 
-If it applies, use cases where the feature be used.
+If it applies, use cases where the feature would be used.
